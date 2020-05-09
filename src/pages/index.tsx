@@ -28,6 +28,7 @@ type Data = {
       }
     }[]
   }
+  
 }
 
 const BlogIndex = ({ data, location }: PageProps<Data>) => {
